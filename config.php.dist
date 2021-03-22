@@ -1,0 +1,7 @@
+<?php
+
+return [
+    'username' => 'username',
+    'password' => 'password',
+    'apiUri' => 'https://3dsec.sberbank.ru', // https://3dsec.sberbank.ru - тестовый, https://securepayments.sberbank.ru - боевой
+];
